@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "9478",
+      "cityName": "Pãchkhal",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2024-12-23T04:48:51.246Z",
+      "notes": "a",
+      "position": {
+        "lat": "27.68352808378776",
+        "lng": "85.60546875000001"
+      }
+    },
+    {
+      "id": "60ea",
+      "cityName": "Vif",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-24T17:36:31.889Z",
+      "notes": "a",
+      "position": {
+        "lat": "45.07352060670971",
+        "lng": "5.712890625000001"
+      }
+    },
+    {
+      "id": "8cc8",
+      "cityName": "Besbes",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-12-24T17:36:38.337Z",
+      "notes": "b",
+      "position": {
+        "lat": "34.27083595165",
+        "lng": "4.746093750000001"
+      }
+    }
+  ]
+}
